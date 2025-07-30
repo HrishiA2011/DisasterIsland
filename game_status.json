@@ -1,0 +1,15 @@
+{
+  "allowed_versions": ["0.1.0", "0.1.1"],
+
+  "users": {
+    "tester_001": {
+      "expiration_date": "2025-08-10"
+    },
+    "tester_002": {
+      "expiration_date": "2025-08-05"
+    },
+    "tester_003": {
+      "expiration_date": "2025-07-30"
+    }
+  }
+}
