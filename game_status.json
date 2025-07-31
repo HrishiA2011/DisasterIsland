@@ -1,5 +1,5 @@
 {
-  "allowed_versions": ["0.1.0", "0.1.1"],
+  "allowed_versions": ["0.1.0", "0.1.1", "1.1.1"],
 
   "users": {
     "tester_001": {
